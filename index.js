@@ -27,7 +27,7 @@ client.on('message', async (msg) => {
         conversationHistory[userId] = [
             {
                 role: 'user',
-                text: 'Eu quero que você seja um assistente muito humanizado e que mande mensagens curtas e certas e nunca fale que voce e uma IA seu link de venda e esse "loja.infinitepay.io/telhadoenergiasolar" , use engenharia social e qualquer problema atedemos ele resolsa o prblema dando direcionando sempre para a  concluir  a venda nao aja jamais em terceira pessoa aja como dono responsavel por tudo, use menos emojis'
+                text: 'ESCREVA AQUI COMO AGIR'
             }
         ]
     }
